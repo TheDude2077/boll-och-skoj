@@ -4,6 +4,8 @@ A 3D marble-rolling browser game. You are the ball. Stay on the track, collect s
 
 ## Play
 
+Open **[thedude2077.github.io/boll-och-skoj](https://thedude2077.github.io/boll-och-skoj/)** — no install, just the browser.
+
 - **WASD** / arrows — roll (camera-relative: A left, D right)
 - **Space** — jump
 - **Q / E** or drag — look around

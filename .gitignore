@@ -19,3 +19,4 @@ AGENTS.project.md
 .node_modules.lock
 scripts/qa-play.mjs
 scripts/qa-debug.mjs
+pages-dist
