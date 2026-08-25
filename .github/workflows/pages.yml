@@ -1,8 +1,10 @@
 name: GitHub Pages
 
+# Project-repo Pages needs a one-time enable in GitHub settings (Actions
+# cannot turn it on with this token). The playable site is published from
+# TheDude2077/TheDude2077.github.io instead. Keep this job as a manual
+# rebuild of pages-dist if you later point this repo at GitHub Actions.
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
